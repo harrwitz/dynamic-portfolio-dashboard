@@ -1,6 +1,7 @@
 # Dynamic Portfolio Dashboard
 
 A dynamic portfolio dashboard built with Next.js, React, TypeScript, Tailwind CSS, and Node.js.
+live demo: https://dynamic-portfolio-dashboard-umber.vercel.app/
 
 ## Prerequisites
 

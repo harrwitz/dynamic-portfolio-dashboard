@@ -1,0 +1,184 @@
+[
+  {
+    "sector": "Financial Sector",
+    "name": "HDFC Bank",
+    "quantity": 50,
+    "purchasePrice": 1490,
+    "exchange": "HDFCBANK"
+  },
+  {
+    "sector": "Financial Sector",
+    "name": "Bajaj Finance",
+    "quantity": 15,
+    "purchasePrice": 6466,
+    "exchange": "BAJFINANCE"
+  },
+  {
+    "sector": "Financial Sector",
+    "name": "ICICI Bank",
+    "quantity": 84,
+    "purchasePrice": 780,
+    "exchange": "532174"
+  },
+  {
+    "sector": "Financial Sector",
+    "name": "Bajaj Housing",
+    "quantity": 504,
+    "purchasePrice": 130,
+    "exchange": "544252"
+  },
+  {
+    "sector": "Financial Sector",
+    "name": "Savani Financials",
+    "quantity": 1080,
+    "purchasePrice": 24,
+    "exchange": "511577"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "Affle India",
+    "quantity": 50,
+    "purchasePrice": 1151,
+    "exchange": "AFFLE"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "LTI Mindtree",
+    "quantity": 16,
+    "purchasePrice": 4775,
+    "exchange": "LTIM"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "KPIT Tech",
+    "quantity": 61,
+    "purchasePrice": 672,
+    "exchange": "542651"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "Tata Tech",
+    "quantity": 63,
+    "purchasePrice": 1072,
+    "exchange": "544028"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "BLS E-Services",
+    "quantity": 191,
+    "purchasePrice": 232,
+    "exchange": "544107"
+  },
+  {
+    "sector": "Tech Sector",
+    "name": "Tanla",
+    "quantity": 45,
+    "purchasePrice": 1134,
+    "exchange": "532790"
+  },
+  {
+    "sector": "Consumer",
+    "name": "Dmart",
+    "quantity": 27,
+    "purchasePrice": 3777,
+    "exchange": "DMART"
+  },
+  {
+    "sector": "Consumer",
+    "name": "Tata Consumer",
+    "quantity": 90,
+    "purchasePrice": 845,
+    "exchange": "532540"
+  },
+  {
+    "sector": "Consumer",
+    "name": "Pidilite",
+    "quantity": 36,
+    "purchasePrice": 2376,
+    "exchange": "500331"
+  },
+  {
+    "sector": "Power",
+    "name": "Tata Power",
+    "quantity": 225,
+    "purchasePrice": 224,
+    "exchange": "500400"
+  },
+  {
+    "sector": "Power",
+    "name": "KPI Green",
+    "quantity": 50,
+    "purchasePrice": 875,
+    "exchange": "542323"
+  },
+  {
+    "sector": "Power",
+    "name": "Suzlon",
+    "quantity": 450,
+    "purchasePrice": 44,
+    "exchange": "532667"
+  },
+  {
+    "sector": "Power",
+    "name": "Gensol",
+    "quantity": 45,
+    "purchasePrice": 998,
+    "exchange": "542851"
+  },
+  {
+    "sector": "Pipe Sector",
+    "name": "Hariom Pipes",
+    "quantity": 60,
+    "purchasePrice": 580,
+    "exchange": "543517"
+  },
+  {
+    "sector": "Pipe Sector",
+    "name": "Astral",
+    "quantity": 56,
+    "purchasePrice": 1517,
+    "exchange": "ASTRAL"
+  },
+  {
+    "sector": "Pipe Sector",
+    "name": "Polycab",
+    "quantity": 28,
+    "purchasePrice": 2818,
+    "exchange": "542652"
+  },
+  {
+    "sector": "Others",
+    "name": "Clean Science",
+    "quantity": 32,
+    "purchasePrice": 1610,
+    "exchange": "543318"
+  },
+  {
+    "sector": "Others",
+    "name": "Deepak Nitrite",
+    "quantity": 27,
+    "purchasePrice": 2248,
+    "exchange": "506401"
+  },
+  {
+    "sector": "Others",
+    "name": "Fine Organic",
+    "quantity": 16,
+    "purchasePrice": 4284,
+    "exchange": "541557"
+  },
+  {
+    "sector": "Others",
+    "name": "Gravita",
+    "quantity": 8,
+    "purchasePrice": 2037,
+    "exchange": "533282"
+  },
+  {
+    "sector": "Others",
+    "name": "SBI Life",
+    "quantity": 49,
+    "purchasePrice": 1197,
+    "exchange": "540719"
+  }
+]
